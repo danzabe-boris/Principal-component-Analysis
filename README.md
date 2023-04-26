@@ -37,6 +37,6 @@ Le code implémente les fonctions suivantes pour l'optimisation des modèles:
 
 Pour exécuter le code, il suffit d'ouvrir le fichier dans un environnement Python et d'exécuter les cellules une par une. Les résultats seront affichés dans les sorties correspondantes. 
 
-## Conclusion
+## Conclusion 
 
 Le code fournit des fonctions pour optimiser les modèles de classification en utilisant différents algorithmes et en effectuant différentes méthodes d'optimisation. Ces fonctions peuvent être utilisées pour améliorer les performances de classification des modèles de données et pour fournir des prédictions plus précises.
